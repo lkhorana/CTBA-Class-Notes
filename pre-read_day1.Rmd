@@ -1,0 +1,39 @@
+---
+title: "Pre-read Notes"
+author: "Latisha Khorana"
+date: "'r Sys.Date()'"
+output: html_document
+----
+
+# Day 1
+
+## Chapter 6 Summary <br>
+Competitve advantage moves towards organizations that are most central to connecting business, aggregating the data that flows between them and extracting value through powerful analytics and AI <br>
+
+Shift from Industry Analysis to Network Analysis <br>
+
+### Network Analysis <br>
+Involves understanding the open and distributed connections across firms, with each firm connected to a large number of networks across disparate industries <br>
+
+#### Vocabulary <br>
+1. **Network Effects** = Value added by increasing number of connections within and across networks <br>
+2. **Learning Effects** = Capture the value added by increasing the amount of data flowing through the same network <br>
+3. **Direct Network Effects** = users value the presence of other users <br>
+4. **Indirect Network Effects** = When users in one category value the presence of users in some other category <br>
+5. **Multihoming** = refers to the viability of competitive alternatives, specifically to situations where in users or service providers in a network can form ties with multiple platforms or hub firms at the same time. <br>
+6. **Disintermediation** = Wherein nodes in a network can esaily bypass the firm to connect directly, can also be a significant problem for capturing value. <br>
+7. **Network Bridging**= Involves making new connections across previously separate econmic networrks, making use of more favorable competitive dynamics and different willingness to pay <br>
+
+#### Strategic Network Analysis <br>
+Step 1: Mapping the networks: List the major networks a business is connected to <br>
+Step 2: Evaluate the potential of each major network in the business for value creation & capture at scale. <br>
+
+#### Strategic Questions to ask for Evaluation <br>
+Question 1: What is the core service delivered? <br>
+Question 2: What networks are key to providing that service, and what are their characteristics? Do they have strong learning or network effects? Are they clustered? <br>
+Question 3: If network and learning effects are weak, how do you strengthen them over time? How do you increase the value delivered? <br>
+Question 4: If the network effects are strong and there is very little value delivered until critical mass, how do you get there? <br>
+Question 5: What are the most important secondary networks? Can they enable additional network or learning effects? <br>
+Question 6: Do we have challenges with network clustering? Multihoming? Disintermediation? <br>
+Question 7: What are the best value capture opportunities? <br>
+Question 8: Are there network bridging opportunities? Considering the data you can accumulate from your core network, is it of value to another network?
