@@ -1,0 +1,53 @@
+---
+title: "Pre-read Notes"
+author: "Latisha Khorana"
+date: "'r Sys.Date()'"
+output: html_document
+----
+
+# Day 2
+
+## Chapter 2 Summary
+
+Reference: Chapter 2  from Iansiti, Marco, and Karim R. Lakhan
+
+Economist list Ronald Coase and Oliver Williamson have declared that firms are formed to accomplish tasks that cannot be completed by individuals working through a market structure. <br>
+Firms provide long-term contracts to coordinate tasks without continually incurring the friction of continuous bargaining and negotiation and thus lower the transaction costs needed to create products and services. <br>
+
+The value of the firm is shaped by two concepts: <br>
+1. The firm's business model: Defined as the way the firm promises to create and capture value <br>
+2. The firm's operating model: Defined as the way the firm delivers the value to its customers <br>
+
+### Diving into the business model: <br>
+
+A company's business model is therefore defined by how it creates and captures value from its customers.  <br>
+
+* First: The company must create value for a customer that prompts her to consume the company's product or service <br>
+* Second: The company must deploy some method to capture some of the value created. <br>
+
+Value creation is the reason customer chooses to use a company's product or service and the particular problem the company is solving for customers (Value proposition OR customer promise) <br>
+
+Value capture is when the value captured from the customer less than the value it creates for the customer. <br>
+
+The sales price of the car (P) 
+
+The cost of the manufacturing car (C)
+
+The margin is P>C defines the value capture for an auto company <br>
+
+Digital Firms vs. Traditional Firms in Value Capture <br>
+
+Traditional Firms: value creation and capture arre usually straightforward and closely intertwined: value is typically created and captured from the same source (the customer) through a simple pricing mechanism <br>
+Digital Firms: the options are much broader, because value creation and capture can be separated much more easily and often come from different stakeholders.
+
+### Diving into Operating Models <br>
+
+The goal of an operating model is to deliver value at **scale**, to achieve sufficient **scope**, and to respond to changes by engaging in sufficient **learning** <br>
+
+1. **Scale** - designing an operating model to deliver as much value to as many customers as possible at the lowest cost. <br>
+
+2. **Scope** - a firm's scope is defined as the range of activities it performs. <br>
+
+3. **Learning** - driving continuous improvement, increasing operating performance over time, and developing new products and services. <br>
+
+Growth constraints are much less dependent on human actors, and organizational constraints are rarely a problem, because much of the operational complexity is solved through softwar and analytics or outsourced to external partners in the operating network.
